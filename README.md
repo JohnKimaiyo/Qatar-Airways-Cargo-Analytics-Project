@@ -1,6 +1,6 @@
  Importance of Performing This Analysis
 
-A. Resource Optimization (Capacity Planning)
-B. Financial Forecasting
-C. Identifying Operational Bottlenecks
-D. Risk Mitigation
+1.Resource Optimization (Capacity Planning)
+2.Financial Forecasting
+3.Identifying Operational Bottlenecks
+4.Risk Mitigation
