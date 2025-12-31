@@ -88,7 +88,7 @@ Enhance financial and logistics performance monitoring
 
 How to Run the Project
 1. Clone the Repository
-git clone https://github.com/your-username/aviation-logistics-analytics.git
+git clone https://github.com/JohnKimaiyo/Qatar-Airways-Cargo-Analytics-Project
 cd aviation-logistics-analytics
 
 2. Install Dependencies
